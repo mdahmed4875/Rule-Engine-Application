@@ -42,5 +42,7 @@
 <h3>DatabaseConnection Class</h3>
 <p>Handles the database connection and disconnection using JDBC.</p>
 <h2>How to Run the Application</h2>
+<h4>Clone the Repository:</h4>
+<p><code>git clone <repository_url></code></p>
 
 
