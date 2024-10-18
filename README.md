@@ -15,5 +15,10 @@ This project implements a Rule Engine Application designed to evaluate user elig
 - **Abstract Syntax Tree (AST)**: For rule representation and evaluation.
 - **JDBC**: For database connectivity.
   **SQL**: For database.
+  ## Getting Started
+1. Clone the repository:
+   ```bash
+   git clone 
+   cd rule-engine
 
 
