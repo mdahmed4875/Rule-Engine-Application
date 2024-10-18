@@ -18,7 +18,7 @@ This project implements a Rule Engine Application designed to evaluate user elig
   ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone 
-   cd rule-engine
+   git clone https://github.com/mdahmed4875/Rule-Engine-Application.git
+   
 
 
