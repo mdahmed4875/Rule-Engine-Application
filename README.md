@@ -42,8 +42,6 @@
 <h3>DatabaseConnection Class</h3>
 <p>Handles the database connection and disconnection using JDBC.</p>
 <h2>How to Run the Application</h2>
-<h4>Clone the Repository:</h4>
-<p><code>git clone https://github.com/mdahmed4875/Rule-Engine-Application.git</code></p>
 <h4>Configure Database:</h4>
 <p>Set up a MySQL (or compatible) database.</p>
 <p>Update the DatabaseConnection class with your database credentials (URL, username, password).</p>
@@ -69,6 +67,7 @@
 <ul>
   <li>Java</li>
   <li>JDBC</li>
+  <li>NetBeans</li>
   <li>SQL database</li>
 </ul>
 
