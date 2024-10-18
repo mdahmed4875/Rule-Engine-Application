@@ -44,5 +44,34 @@
 <h2>How to Run the Application</h2>
 <h4>Clone the Repository:</h4>
 <p><code>git clone https://github.com/mdahmed4875/Rule-Engine-Application.git</code></p>
+<h4>Configure Database:</h4>
+<p>Set up a MySQL (or compatible) database.</p>
+<p>Update the DatabaseConnection class with your database credentials (URL, username, password).</p>
+<h4>Run the Application:</h4>
+<ul>
+  <li>Open the project in NetBeans or any Java IDE.</li>
+  <li>Compile and run the Main class.</li>
+  <li>Enter a rule when prompted (e.g., age > 30 AND salary > 50000).</li>
+  <li>The application will insert the rule into the database and evaluate it based on sample user data.</li>
+</ul>
+<h4>Sample Input:</h4>
+<p><code>Enter a rule to insert: age > 30 AND salary > 50000</code></p>
+<h2>Example Rule</h2>
+<ul>
+  <li>Rule:<code> age > 30 AND department = 'Sales'</code>code></li>
+</ul>
+<h2>Future Enhancements</h2>
+<ul>
+  <li>Add support for more complex rule types and operators.</li>
+  <li>Extend database operations to update and delete rules.</li>
+</ul>
+<h2>Dependencies</h2>
+<ul>
+  <li>Java</li>
+  <li>JDBC</li>
+  <li>SQL database</li>
+</ul>
+
+
 
 
